@@ -1,1 +1,17 @@
 # lbyec72ei2-prelimactivitynumber2-donotincludeanycode-patrickapacible
+
+![](main menu.PNG)
+![](option1a.PNG)
+![](option1b.PNG)
+![](option1c.PNG)
+![](option1d.PNG)
+![](option1e.PNG)
+![](error2.PNG)
+![](option2a.PNG)
+![](option2b.PNG)
+![](option2c.PNG)
+![](option2d.PNG)
+![](option2e.PNG)
+![](error3.PNG)
+![](error1.PNG)
+![](exit.PNG)
